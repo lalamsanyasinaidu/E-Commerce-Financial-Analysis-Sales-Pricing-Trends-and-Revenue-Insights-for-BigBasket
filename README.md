@@ -1,10 +1,10 @@
-E-Commerce Financial Performance Analysis: A Deep Dive into Sales, Pricing Strategies, and Revenue Trends for BigBasket
+**E-Commerce Financial Performance Analysis: A Deep Dive into Sales, Pricing Strategies, and Revenue Trends for BigBasket**
 
-Project Overview
+**Project Overview**
 
 This project provides a comprehensive analysis of BigBasket's financial performance, focusing on sales data, pricing strategies, and revenue trends. Using SQL, Power BI, and Excel, the project delivers insights into product performance, pricing efficiency, and customer preferences, aiming to enhance business strategies and decision-making processes.
 
-Table of Contents
+**Table of Contents**
 
 - [Introduction]
 - [Data Description]
@@ -18,11 +18,11 @@ Table of Contents
 - [Future Enhancements]
 
 
-Introduction
+**Introduction**
 
 BigBasket, India's leading online grocery supermarket, provides a rich dataset of products, sales, and customer ratings. This project aims to analyze this dataset to uncover insights related to sales performance, pricing strategies, and revenue generation. The goal is to facilitate data-driven decisions that can optimize business operations and enhance customer satisfaction.
 
-Data Description
+**Data Description**
 
 The dataset used in this project includes the following columns:
 - `index`: Unique identifier for each record.
@@ -36,7 +36,7 @@ The dataset used in this project includes the following columns:
 - `rating`: Consumer rating of the product.
 - `description`: Detailed description of the product.
 
-Project Objectives
+**Project Objectives**
 
 1. **Product Pricing Insights**
    - Visualize the average, minimum, and maximum sale prices across categories and sub-categories.
@@ -82,7 +82,7 @@ Project Objectives
 4. **Excel Analysis**
    - Used Excel for supplementary data manipulation and analysis.
 
-Visualizations
+**Visualizations**
 
 1. **Sales Analysis Dashboard**
    - Total products sold, total revenue, and average discount per category.
@@ -107,27 +107,27 @@ Visualizations
    - Visualize discrepancies between market prices and sale prices.
    - Highlight products with significant discounts.
 
-Key Findings
+**Key Findings**
 
 1. **Top Performing Categories**: Identified categories with the highest sales and revenue.
 2. **Pricing Strategies**: Analyzed discount patterns and pricing strategies to determine effectiveness.
 3. **Customer Preferences**: Highlighted top-rated products and most favored brands.
 4. **Revenue Trends**: Uncovered trends in revenue contribution by category and sub-category.
 
-Use Cases
+**Use Cases**
 
 - **Business Strategy Optimization**: Enhance pricing strategies and product placements based on performance data.
 - **Marketing and Promotions**: Target high-performing categories and top-rated products for marketing campaigns.
 - **Inventory Management**: Focus on top brands and high-demand products to optimize inventory levels.
 
-Skills Acquired
+**Skills Acquired**
 
 - **SQL Proficiency**: Writing complex SQL queries for data analysis and aggregation.
 - **Power BI Expertise**: Creating interactive dashboards and reports, using DAX for measures, and combining visualizations.
 - **Excel Data Analysis**: Manipulating and analyzing data in Excel for supplementary insights.
 - **Data Visualization**: Designing clear and impactful visual representations of data.
 
-Setup and Execution
+**Setup and Execution**
 
 3. **Run SQL Scripts**
    - Load the dataset into SQL Server.
@@ -139,7 +139,7 @@ Setup and Execution
 5. **Excel Analysis**
    - Use provided Excel files for additional analysis.
 
-Future Enhancements
+**Future Enhancements**
 
 - **Advanced Data Integration**: Integrate additional data sources for a more comprehensive analysis.
 - **Enhanced Visualizations**: Develop more advanced and interactive visualizations.
